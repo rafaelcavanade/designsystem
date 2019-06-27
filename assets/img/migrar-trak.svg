@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 257.83 202.669">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-8 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #f8f8f8;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #e8e8e8;
+        stroke-width: 3px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #dfd6f7;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_5536" data-name="Path 5536" class="cls-1" d="M-2789.8,2601v202.669h212.088l-96.516-101.087L-2577.712,2601Z" transform="translate(2789.8 -2601)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7660" data-name="Group 7660" transform="translate(-509.2 -3096)">
+    <g id="Group_7661" data-name="Group 7661">
+      <g id="Group_7658" data-name="Group 7658" transform="translate(509.2 3096)">
+        <ellipse id="Ellipse_184" data-name="Ellipse 184" class="cls-2" cx="70.574" cy="70.574" rx="70.574" ry="70.574" transform="translate(172.067 31.426) rotate(90)"/>
+        <g id="Mask_Group_282" data-name="Mask Group 282" class="cls-3">
+          <g id="Ellipse_185" data-name="Ellipse 185" class="cls-4" transform="translate(202.669) rotate(90)">
+            <ellipse class="cls-7" cx="101.335" cy="101.335" rx="101.335" ry="101.335"/>
+            <ellipse class="cls-8" cx="101.335" cy="101.335" rx="99.835" ry="99.835"/>
+          </g>
+        </g>
+      </g>
+      <g id="Rectangle_3577" data-name="Rectangle 3577" class="cls-5" transform="translate(713.287 3183.279) rotate(90)">
+        <rect class="cls-7" width="29.093" height="116.372"/>
+        <rect class="cls-8" x="1.5" y="1.5" width="26.093" height="113.372"/>
+      </g>
+      <path id="Path_5537" data-name="Path 5537" class="cls-5" d="M-2493.71,2723.5v72.733l58.186-36.487Z" transform="translate(3199.725 437.232)"/>
+      <rect id="Rectangle_3578" data-name="Rectangle 3578" class="cls-6" width="24.729" height="23.2" transform="translate(694.74 3186.2)"/>
+    </g>
+  </g>
+</svg>

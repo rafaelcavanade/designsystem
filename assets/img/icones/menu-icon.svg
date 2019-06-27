@@ -1,0 +1,12 @@
+<svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.983 11.989">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3caad5;
+      }
+    </style>
+  </defs>
+  <path id="Path_4549" data-name="Path 4549" class="cls-1" d="M5,20v2.4H22.983V20Zm17.583,2H5.4V20.4H22.583Z" transform="translate(-5 -20)"/>
+  <path id="Path_4550" data-name="Path 4550" class="cls-1" d="M5,46.4H22.983V44H5Zm.4-2H22.583V46H5.4Z" transform="translate(-5 -39.205)"/>
+  <path id="Path_4551" data-name="Path 4551" class="cls-1" d="M5,70.4H22.983V68H5Zm.4-2H22.583V70H5.4Z" transform="translate(-5 -58.409)"/>
+</svg>

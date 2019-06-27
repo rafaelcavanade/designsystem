@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.422 23.993">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <path id="ic_insert_drive_file_24px" class="cls-1" d="M6.286,2A2.283,2.283,0,0,0,4.011,4.286L4,22.572a2.283,2.283,0,0,0,2.274,2.286H20a2.292,2.292,0,0,0,2.286-2.286V8.857L15.429,2Zm9.143,6.857V2.571l6.286,6.286Z" transform="translate(-3.5 -1.364)"/>
+</svg>

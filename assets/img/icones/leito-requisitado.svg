@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.027 14.59">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        stroke: #3b3b3b;
+      }
+
+      .cls-3 {
+        fill: #00c853;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="leito-requisitado" transform="translate(-166 -2445.732)">
+    <g id="noun_Hospital_583380" transform="translate(166 2449.637)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+      </g>
+    </g>
+    <g id="Group_58" data-name="Group 58" transform="translate(-5 1.853)">
+      <path id="ic_assignment_turned_in_24px" class="cls-2" d="M8.291,12.976,6,10.684l.808-.808,1.484,1.478L12.066,7.58l.808.813Z" transform="translate(170.007 2437.715)"/>
+      <path id="ic_assignment_turned_in_24px-2" data-name="ic_assignment_turned_in_24px" class="cls-3" d="M8.291,12.976,6,10.684l.808-.808,1.484,1.478L12.066,7.58l.808.813Z" transform="translate(172.352 2437.715)"/>
+      <path id="ic_assignment_turned_in_24px-3" data-name="ic_assignment_turned_in_24px" class="cls-2" d="M8.291,12.976,6,10.684l.808-.808,1.484,1.478L12.066,7.58l.808.813Z" transform="translate(172.352 2437.715)"/>
+    </g>
+  </g>
+</svg>

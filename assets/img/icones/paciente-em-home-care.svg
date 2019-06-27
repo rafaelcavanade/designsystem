@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.1 15.385">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <path id="paciente-em-home-care" class="cls-1" d="M9.24,18.385v-5.43h3.62v5.43h4.525v-7.24H20.1L11.05,3,2,11.145H4.715v7.24Z" transform="translate(-2 -3)"/>
+</svg>

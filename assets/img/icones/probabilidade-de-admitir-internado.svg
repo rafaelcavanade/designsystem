@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.027 13.504">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d50000;
+      }
+
+      .cls-2 {
+        fill: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <g id="probabilidade-de-admitir-internado" transform="translate(-195 -118.818)">
+    <g id="down-arrow" transform="translate(200.657 116.818)">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_12" data-name="Path 12" class="cls-1" d="M40.033,4.912a.185.185,0,0,0-.171-.114H37.84V2.185A.185.185,0,0,0,37.656,2H34.7a.185.185,0,0,0-.185.185V4.8h-2.03a.184.184,0,0,0-.131.315L36.04,8.807a.185.185,0,0,0,.261,0l3.692-3.694A.184.184,0,0,0,40.033,4.912Z" transform="translate(-32.304)"/>
+      </g>
+    </g>
+    <g id="noun_Hospital_583380" transform="translate(195 121.637)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <path id="Path_13" data-name="Path 13" class="cls-2" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.802 13.802">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff1744;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <g id="paciente-com-barreira-de-comunicacao" transform="translate(-199.805 -8155.191)">
+    <g id="Group_219" data-name="Group 219" transform="translate(28.805 5979.191)">
+      <path id="ic_announcement_24px" class="cls-1" d="M14.422,2H3.38A1.378,1.378,0,0,0,2.007,3.38L2,15.8l2.76-2.76h9.661a1.384,1.384,0,0,0,1.38-1.38V3.38A1.384,1.384,0,0,0,14.422,2Z" transform="translate(169 2174)"/>
+    </g>
+    <path id="ic_query_builder_24px" class="cls-2" d="M5.694,2A3.7,3.7,0,1,0,9.4,5.7,3.7,3.7,0,0,0,5.694,2Zm0,6.656A2.957,2.957,0,0,1,2.74,5.7a3.2,3.2,0,0,1,.285-1.268A2.882,2.882,0,0,1,5.7,2.74a2.958,2.958,0,0,1,0,5.916ZM2.753,4.749,8.266,7.7l.4-.859L3.429,4.067Z" transform="translate(201.211 8154.9)"/>
+  </g>
+</svg>

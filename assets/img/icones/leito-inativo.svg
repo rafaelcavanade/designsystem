@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.027 16.321">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="leito-inativo" transform="translate(-194 -618)">
+    <g id="noun_Hospital_583380" transform="translate(194 623.637)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+      </g>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(27 2.075)">
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="4.977" cy="4.977" rx="4.977" ry="4.977" transform="translate(170.972 615.925)"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-3" width="6.62" height="1.655" transform="translate(172.65 620.125)"/>
+    </g>
+  </g>
+</svg>

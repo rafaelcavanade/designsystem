@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.032 17.335">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+        stroke: #3b3b3b;
+        stroke-linecap: round;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #3b3b3b;
+      }
+
+      .cls-3 {
+        fill: #fbc02d;
+      }
+    </style>
+  </defs>
+  <g id="documentos-digitalizados" transform="translate(-167.484 -7477.366)">
+    <g id="noun_scaner_562322" transform="translate(169.484 7474.333)">
+      <g id="Group_188" data-name="Group 188" transform="translate(-1 4)">
+        <path id="Path_3848" data-name="Path 3848" class="cls-1" d="M6.576,3.091H2.046A1.046,1.046,0,0,0,1,4.137V13.2a1.047,1.047,0,0,0,1.047,1.047H6.576M10.258,1.033V16.369" transform="translate(-1 -1)"/>
+        <circle id="Ellipse_25" data-name="Ellipse 25" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(11.153 1.394)"/>
+        <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(13.244 1.394)"/>
+        <circle id="Ellipse_27" data-name="Ellipse 27" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(14.638 2.788)"/>
+        <circle id="Ellipse_28" data-name="Ellipse 28" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(14.638 4.879)"/>
+        <circle id="Ellipse_29" data-name="Ellipse 29" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(14.638 6.971)"/>
+        <circle id="Ellipse_30" data-name="Ellipse 30" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(14.638 9.062)"/>
+        <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-2" cx="0.6" cy="0.6" r="0.6" transform="translate(11.216 10.062)"/>
+        <circle id="Ellipse_31" data-name="Ellipse 31" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(14.638 11.211)"/>
+        <circle id="Ellipse_32" data-name="Ellipse 32" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(13.244 12.547)"/>
+        <circle id="Ellipse_33" data-name="Ellipse 33" class="cls-2" cx="0.697" cy="0.697" r="0.697" transform="translate(11.153 12.547)"/>
+      </g>
+    </g>
+    <path id="ic_supervisor_account_24px" class="cls-3" d="M13.2,9a1,1,0,1,0-1-1A1,1,0,0,0,13.2,9Zm0,.8c-.732,0-2.2.368-2.2,1.1v.9h4.4v-.9C15.4,10.17,13.934,9.8,13.2,9.8Z" transform="translate(160 7475.273)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-4" x2="4" transform="translate(171.5 7489.1)"/>
+  </g>
+</svg>

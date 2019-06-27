@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 63 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #69737c;
+      }
+
+      .cls-2 {
+        fill: #005a9c;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        filter: url(#Path_539);
+      }
+    </style>
+    <filter id="Path_539" x="0" y="0" width="63" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_237" data-name="Rectangle 237" class="cls-1" width="10.094" height="17.403"/>
+    </clipPath>
+  </defs>
+  <g id="bt_ir" data-name="bt ir" transform="translate(345 566) rotate(180)">
+    <g class="cls-5" transform="matrix(-1, 0, 0, -1, 345, 566)">
+      <path id="Path_539-2" data-name="Path 539" class="cls-2" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" transform="translate(51 51) rotate(180)"/>
+    </g>
+    <g id="Group_827" data-name="Group 827" transform="translate(321.419 546.575) rotate(180)">
+      <g id="Group_239" data-name="Group 239">
+        <g id="Group_238" data-name="Group 238" class="cls-3">
+          <path id="Path_401" data-name="Path 401" class="cls-4" d="M9.513,9.513,2.059,16.968a1.226,1.226,0,0,1-1.711,0,1.226,1.226,0,0,1,0-1.711l5.41-5.41L6.932,8.672.348,2.059a1.226,1.226,0,0,1,0-1.711,1.226,1.226,0,0,1,1.711,0L9.513,7.8a1.228,1.228,0,0,1,.348.87,1.211,1.211,0,0,1-.348.841Zm0,0" transform="matrix(-0.999, -0.035, 0.035, -0.999, 9.556, 17.482)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

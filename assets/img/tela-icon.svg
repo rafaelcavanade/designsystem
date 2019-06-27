@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.428 13.961">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3caad5;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="tela-icon" transform="translate(7430 -6339)">
+    <g id="tela-icon-2" data-name="tela-icon" transform="translate(-7430 6339)">
+      <path id="Path_4532" data-name="Path 4532" class="cls-1" d="M195.428,665.279v13.4a.279.279,0,0,1-.279.279h-17.87a.279.279,0,0,1-.279-.279v-13.4a.279.279,0,0,1,.279-.279h17.87A.279.279,0,0,1,195.428,665.279ZM183.7,672.26V678.4H194.87V672.26Zm0-6.7V671.7H194.87v-6.143Zm-6.143,0V678.4h5.584V665.558Z" transform="translate(-177 -665)"/>
+    </g>
+  </g>
+</svg>

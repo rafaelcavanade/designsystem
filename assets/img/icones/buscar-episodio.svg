@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248.368 243.713">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8f8f8;
+      }
+
+      .cls-2, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #e8e8e8;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-7 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-5, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-6, .cls-9 {
+        fill: #def3fc;
+      }
+
+      .cls-5 {
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-9 {
+        font-size: 18px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <g id="Group_4092" data-name="Group 4092" transform="translate(-572.536 -262.566)">
+    <circle id="Ellipse_44" data-name="Ellipse 44" class="cls-1" cx="84.82" cy="84.82" r="84.82" transform="translate(610.352 296.533)"/>
+    <path id="Path_3627" data-name="Path 3627" class="cls-2" d="M180.095,119.062A125.475,125.475,0,0,1,122.658,133.2,124.1,124.1,0,0,1,1.6,36" transform="translate(572.4 371.579)"/>
+    <path id="Path_3628" data-name="Path 3628" class="cls-2" d="M38,3.5a123.784,123.784,0,0,1,83.945,117.082A124.408,124.408,0,0,1,110.016,173.6" transform="translate(696.822 260.488)"/>
+    <path id="Path_3629" data-name="Path 3629" class="cls-3" d="M46.137,31.4l97.342,97.342-14.541,14.137L32,45.941" transform="translate(675.289 355.609)"/>
+    <rect id="Rectangle_1172" data-name="Rectangle 1172" class="cls-4" width="28.273" height="105.016" transform="translate(715.861 415.607) rotate(-45)"/>
+    <line id="Line_426" data-name="Line 426" class="cls-2" y1="19.791" x2="19.791" transform="translate(727.484 407.204)"/>
+    <line id="Line_427" data-name="Line 427" class="cls-2" y1="19.791" x2="19.791" transform="translate(775.953 455.673)"/>
+    <path id="Subtraction_3" data-name="Subtraction 3" class="cls-5" d="M-1770.258-1917.5a76.333,76.333,0,0,1-29.883-6.027,76.712,76.712,0,0,1-13.036-7.072,77.224,77.224,0,0,1-11.356-9.368,77.217,77.217,0,0,1-9.368-11.356,76.71,76.71,0,0,1-7.072-13.036,76.334,76.334,0,0,1-6.027-29.883,76.335,76.335,0,0,1,6.027-29.883,76.711,76.711,0,0,1,7.072-13.036,77.217,77.217,0,0,1,9.368-11.356,77.2,77.2,0,0,1,11.356-9.368,76.7,76.7,0,0,1,13.036-7.073,76.338,76.338,0,0,1,29.883-6.027,76.338,76.338,0,0,1,29.883,6.027,76.7,76.7,0,0,1,13.036,7.073,77.2,77.2,0,0,1,11.356,9.368,77.209,77.209,0,0,1,9.368,11.356,76.708,76.708,0,0,1,7.072,13.036,76.335,76.335,0,0,1,6.027,29.883,76.334,76.334,0,0,1-6.027,29.883,76.72,76.72,0,0,1-7.072,13.036,77.236,77.236,0,0,1-9.368,11.356,77.221,77.221,0,0,1-11.356,9.368,76.72,76.72,0,0,1-13.036,7.072A76.334,76.334,0,0,1-1770.258-1917.5Zm.068-137.334c-1.612,0-3.246.065-4.854.193a60.657,60.657,0,0,0-55.61,65.186,60.862,60.862,0,0,0,60.329,55.8c1.607,0,3.241-.065,4.856-.193a60.192,60.192,0,0,0,41.306-21.076,60.191,60.191,0,0,0,14.3-44.11,60.859,60.859,0,0,0-60.327-55.8Z" transform="translate(2429.078 2335.209)"/>
+    <circle id="Ellipse_153" data-name="Ellipse 153" class="cls-3" cx="60.586" cy="60.586" r="60.586" transform="translate(593.5 286.075) rotate(-4.532)"/>
+    <path id="ic_account_circle_24px" class="cls-6" d="M59.585,2A57.585,57.585,0,1,0,117.17,59.585,57.606,57.606,0,0,0,59.585,2Z" transform="translate(599 282)"/>
+    <path id="Path_3631" data-name="Path 3631" class="cls-7" d="M9.2,48.657A48.31,48.31,0,0,1,56.788,9" transform="translate(602.033 283.696)"/>
+    <path id="Path_3632" data-name="Path 3632" class="cls-7" d="M51.438,22A47.8,47.8,0,0,1,25,56.81" transform="translate(655.852 327.978)"/>
+    <path id="Path_3633" data-name="Path 3633" class="cls-7" d="M10.762,33.219A45.485,45.485,0,0,1,9,20" transform="translate(601.351 321.165)"/>
+    <path id="ic_view_agenda_24px" class="cls-8" d="M69.4,3H5.744A3.755,3.755,0,0,0,2,6.744V29.21a3.755,3.755,0,0,0,3.744,3.744H69.4a3.755,3.755,0,0,0,3.744-3.744V6.744A3.755,3.755,0,0,0,69.4,3Z" transform="translate(620.93 322.721)"/>
+    <text id="E1000" class="cls-9" transform="translate(658.594 347.991)"><tspan x="-27.389" y="0">E1000</tspan></text>
+  </g>
+</svg>

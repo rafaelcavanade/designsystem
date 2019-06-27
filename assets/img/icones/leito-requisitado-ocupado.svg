@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.027 14.878">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d50000;
+      }
+
+      .cls-2 {
+        fill: #3b3b3b;
+        stroke: #3b3b3b;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <g id="leito-requisitado-ocupado" transform="translate(-163 -1633.443)">
+    <g id="noun_Hospital_583380" transform="translate(163 1637.637)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+      </g>
+    </g>
+    <path id="ic_query_builder_24px" class="cls-2" d="M5.9,2A3.909,3.909,0,1,0,9.817,5.909,3.907,3.907,0,0,0,5.9,2Zm0,7.035A3.127,3.127,0,1,1,9.035,5.909,3.126,3.126,0,0,1,5.909,9.035Zm.2-5.081H5.518V6.3L7.57,7.531l.293-.481L6.1,6.006Z" transform="translate(166.49 1631.693)"/>
+  </g>
+</svg>

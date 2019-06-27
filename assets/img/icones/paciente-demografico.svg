@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.391 19.441">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00909f;
+      }
+
+      .cls-2 {
+        fill: #fbc02d;
+      }
+
+      .cls-3 {
+        fill: #3b3b3b;
+        stroke: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <g id="paciente-demografico" transform="translate(-165.094 -2581.5)">
+    <g id="noun_people_1426353" transform="translate(135.727 2576.762)">
+      <g id="Group_63" data-name="Group 63" transform="translate(36.273 9.002)">
+        <path id="Path_34" data-name="Path 34" class="cls-1" d="M40.911,29.155H37.363a1,1,0,0,0-1.09.868v4.921a.992.992,0,0,0,1.066.866v3.732a.983.983,0,0,0,1.067.868h1.462a.983.983,0,0,0,1.066-.868V35.81A.991.991,0,0,0,42,34.944V30.023A1,1,0,0,0,40.911,29.155Z" transform="translate(-36.855 -25.233)"/>
+        <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-2" cx="1.852" cy="1.852" r="1.852" transform="translate(0.43 0)"/>
+      </g>
+    </g>
+    <g id="noun_Search_1049797" transform="translate(153.6 2571)">
+      <g id="Group_62" data-name="Group 62" transform="translate(12.2 11)">
+        <path id="Path_32" data-name="Path 32" class="cls-3" d="M13.307,26.185l3.322-3.322A6.644,6.644,0,1,0,20.742,11,6.646,6.646,0,0,0,15.5,21.756l-3.3,3.322Zm7.434-13.6a5.062,5.062,0,1,1-5.082,5.062A5.072,5.072,0,0,1,20.742,12.582Z" transform="translate(-12.2 -11)"/>
+      </g>
+    </g>
+  </g>
+</svg>

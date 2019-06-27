@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #1c3952;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 1.15px;
+      }
+    </style>
+  </defs>
+  <g id="Group_7658" data-name="Group 7658" transform="translate(2486.5 794.5)">
+    <g id="documentos" transform="translate(-2546 -1246.5)">
+      <path id="ic_account_box_24px" class="cls-1" d="M3,4.667V16.333A1.666,1.666,0,0,0,4.667,18H16.333A1.672,1.672,0,0,0,18,16.333V4.667A1.672,1.672,0,0,0,16.333,3H4.667A1.666,1.666,0,0,0,3,4.667Z" transform="translate(57 449.5)"/>
+      <line id="Line_882" data-name="Line 882" class="cls-2" x2="8" transform="translate(63.5 457.403)"/>
+      <line id="Line_887" data-name="Line 887" class="cls-2" x2="8" transform="translate(63.5 460.403)"/>
+      <line id="Line_888" data-name="Line 888" class="cls-2" x2="8" transform="translate(63.5 463.403)"/>
+    </g>
+  </g>
+</svg>

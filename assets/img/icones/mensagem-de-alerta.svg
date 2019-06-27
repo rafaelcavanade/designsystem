@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.03 18.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d50000;
+      }
+
+      .cls-2 {
+        fill: #fbc02d;
+      }
+    </style>
+  </defs>
+  <g id="mensagem-alerta" transform="translate(-190.972 -366.925)">
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="9.015" cy="9.015" rx="9.015" ry="9.015" transform="translate(190.972 366.925)"/>
+    <path id="ic_info_outline_24px" class="cls-2" d="M0,12.035H4.326L3.336,4.814H.991ZM.991,2.407H3.336V0H.991Z" transform="translate(202.332 382.141) rotate(180)"/>
+  </g>
+</svg>

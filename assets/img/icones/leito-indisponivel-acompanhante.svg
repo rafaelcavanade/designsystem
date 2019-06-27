@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.088 15.939">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+    </style>
+  </defs>
+  <g id="leito-indisponivel-acompanhante" transform="translate(-170.232 -8965)">
+    <g id="Group_245" data-name="Group 245" transform="translate(0 140)">
+      <g id="Group_242" data-name="Group 242" transform="translate(0 271)">
+        <g id="Group_230" data-name="Group 230" transform="translate(2 2330)">
+          <g id="Group_145" data-name="Group 145" transform="translate(1 1824)">
+            <g id="noun_Hospital_583380" transform="translate(167.232 4408.504)">
+              <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+                <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40v7.435h1.859V45.577h7.435v1.859h1.859V43.718H21.859V40Z" transform="translate(-20 -40)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="ic_supervisor_account_24px" class="cls-2" d="M15.756,11.323a2.162,2.162,0,1,0-2.162-2.162A2.155,2.155,0,0,0,15.756,11.323Zm0,1.729c-1.582,0-4.756.8-4.756,2.378v1.946h9.512V15.431C20.512,13.848,17.338,13.053,15.756,13.053Z" transform="translate(164.809 8958)"/>
+  </g>
+</svg>

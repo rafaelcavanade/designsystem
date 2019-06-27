@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <path id="convenio-icon" class="cls-1" d="M15.5,4H3.5A1.555,1.555,0,0,0,2.007,5.625L2,15.375A1.561,1.561,0,0,0,3.5,17h12A1.561,1.561,0,0,0,17,15.375V5.625A1.561,1.561,0,0,0,15.5,4ZM17,10.722H2.007V8.046H17Z" transform="translate(-1.5 -3.5)"/>
+</svg>

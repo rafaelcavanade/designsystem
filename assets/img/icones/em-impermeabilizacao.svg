@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.35 18.323">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+    </style>
+  </defs>
+  <g id="em-ipermeabilizacao" transform="translate(-193.249 -6088.269)">
+    <g id="noun_blood_1670447" transform="translate(198.81 6093.609)">
+      <g id="Group_94" data-name="Group 94" transform="translate(0 0)">
+        <path id="Path_3812" data-name="Path 3812" class="cls-1" d="M84.321,27.9A2.163,2.163,0,1,1,80,27.9c0-1.249,2.173-4.9,2.173-4.9S84.321,26.647,84.321,27.9Z" transform="translate(-80 -23)"/>
+        <path id="Path_3813" data-name="Path 3813" class="cls-1" d="M84.321,27.9A2.163,2.163,0,1,1,80,27.9c0-1.249,2.173-4.9,2.173-4.9S84.321,26.647,84.321,27.9Z" transform="translate(-80 -23)"/>
+      </g>
+    </g>
+    <g id="noun_health_insurance_1067174" data-name="noun_health insurance_1067174" transform="translate(193.249 6088.269)">
+      <g id="Group_202" data-name="Group 202" transform="translate(0 0)">
+        <path id="Path_3857" data-name="Path 3857" class="cls-2" d="M25.846,7.881c0-.467-.019-.915-.019-1.343V6.09a.523.523,0,0,0-.525-.525h-.448a8.01,8.01,0,0,1-5.994-2.258L18.548,3a.517.517,0,0,0-.72,0l-.311.311a7.951,7.951,0,0,1-5.994,2.258h-.448a.523.523,0,0,0-.525.525v.448c0,.428,0,.876-.019,1.343-.078,4.476-.195,10.626,7.337,13.234h0a.912.912,0,0,0,.642,0C26.06,18.507,25.924,12.376,25.846,7.881Zm-7.648,8.6a4.457,4.457,0,1,1,4.457-4.457A4.456,4.456,0,0,1,18.2,16.483Z" transform="translate(-10.513 -2.85)"/>
+      </g>
+    </g>
+  </g>
+</svg>

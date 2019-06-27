@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.769 17.962">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3b3b3b;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #00c853;
+        stroke: #00c853;
+      }
+    </style>
+  </defs>
+  <g id="papelada-de-admissao-concluida" transform="translate(-171 -489)">
+    <path id="ic_assignment_turned_in_24px" class="cls-1" d="M15.173,2.6H12.635a2.385,2.385,0,0,0-4.5,0H5.6A1.6,1.6,0,0,0,4,4.192V15.365a1.6,1.6,0,0,0,1.6,1.6h9.577a1.6,1.6,0,0,0,1.6-1.6V4.192A1.6,1.6,0,0,0,15.173,2.6Z" transform="translate(168 489)"/>
+    <path id="ic_assignment_turned_in_24px-2" data-name="ic_assignment_turned_in_24px" class="cls-2" d="M8.2,12.753,6,10.557l.774-.774L8.2,11.2,11.816,7.58l.774.78Z" transform="translate(169.089 488.844)"/>
+  </g>
+</svg>

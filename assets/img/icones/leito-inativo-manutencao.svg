@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.768 15.939">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+    </style>
+  </defs>
+  <g id="Group_284" data-name="Group 284" transform="translate(-168.232 -6224)">
+    <g id="Group_145" data-name="Group 145" transform="translate(1 1824)">
+      <g id="noun_Hospital_583380" transform="translate(167.232 4408.504)">
+        <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+          <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40v7.435h1.859V45.577h7.435v1.859h1.859V43.718H21.859V40Z" transform="translate(-20 -40)"/>
+        </g>
+      </g>
+    </g>
+    <g id="noun_config_1275154" transform="translate(171.14 6222)">
+      <g id="Group_123" data-name="Group 123" transform="translate(1.996 2)">
+        <g id="Group_121" data-name="Group 121" transform="translate(0.001 6.491)">
+          <path id="Path_3819" data-name="Path 3819" class="cls-2" d="M5.819,30.793a.227.227,0,0,0-.2-.113H3.359a.227.227,0,0,0-.2.113l-1.132,1.96a.236.236,0,0,0,0,.226l1.132,1.96a.227.227,0,0,0,.2.113H5.622a.227.227,0,0,0,.2-.113l1.132-1.96a.236.236,0,0,0,0-.226ZM4.491,34.118a1.25,1.25,0,1,1,1.252-1.252A1.251,1.251,0,0,1,4.491,34.118Z" transform="translate(-2.002 -30.68)"/>
+        </g>
+        <g id="Group_122" data-name="Group 122" transform="translate(0 0)">
+          <path id="Path_3820" data-name="Path 3820" class="cls-2" d="M12.195,8.977a2.264,2.264,0,0,0-2.16-.6L6.48,4.824A2.272,2.272,0,0,0,4.276,2a2.384,2.384,0,0,0-.507.057.228.228,0,0,0-.111.382l.711.711a.863.863,0,0,1,0,1.222.884.884,0,0,1-1.224,0l-.711-.708A.223.223,0,0,0,2.212,3.6a.228.228,0,0,0-.158.167A2.267,2.267,0,0,0,4.276,6.549a2.307,2.307,0,0,0,.543-.07l3.564,3.564a2.3,2.3,0,0,0,.58,2.146,2.283,2.283,0,0,0,2.125.618.227.227,0,0,0,.111-.38l-.708-.708a.866.866,0,0,1,0-1.227.887.887,0,0,1,1.224,0l.711.708a.223.223,0,0,0,.222.059.231.231,0,0,0,.158-.17A2.26,2.26,0,0,0,12.195,8.977Z" transform="translate(-1.996 -2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

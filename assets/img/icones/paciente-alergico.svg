@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.759 16.759">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d50000;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="paciente-alergico" transform="translate(-168.62 -747.62)">
+    <g id="noun_octagon_638378" transform="translate(166.62 745.62)">
+      <path id="Path_17" data-name="Path 17" class="cls-1" d="M13.731,2h-6.7L2,7.028v6.7l5.028,5.028h6.7l5.028-5.028v-6.7Z"/>
+    </g>
+    <path id="Path_16" data-name="Path 16" class="cls-2" d="M.548-2.2.163-3.663H-2.372L-2.766-2.2H-5.083l2.546-7.834H.275L2.853-2.2ZM-.274-5.392-.61-6.673Q-.728-7.1-.9-7.778t-.221-.971q-.048.272-.189.9t-.627,2.46Z" transform="translate(177.891 762)"/>
+  </g>
+</svg>

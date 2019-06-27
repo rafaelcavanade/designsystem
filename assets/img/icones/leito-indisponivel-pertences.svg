@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.662 15.339">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+    </style>
+  </defs>
+  <g id="leito-indisponivel-pertences" transform="translate(-169.232 -10171.601)">
+    <g id="Group_315" data-name="Group 315" transform="translate(0 132)">
+      <g id="Group_311" data-name="Group 311" transform="translate(0 137)">
+        <g id="Group_307" data-name="Group 307" transform="translate(0 268)">
+          <g id="Group_289" data-name="Group 289" transform="translate(1 3410)">
+            <g id="Group_145" data-name="Group 145" transform="translate(1 1824)">
+              <g id="noun_Hospital_583380" transform="translate(167.232 4408.504)">
+                <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+                  <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40v7.435h1.859V45.577h7.435v1.859h1.859V43.718H21.859V40Z" transform="translate(-20 -40)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="ic_work_24px" class="cls-2" d="M10.9,3.979H8.926V2.989A.986.986,0,0,0,7.937,2H5.958a.986.986,0,0,0-.989.989v.989H2.989A.982.982,0,0,0,2,4.968L2,10.41a.986.986,0,0,0,.989.989H10.9a.986.986,0,0,0,.989-.989V4.968A.986.986,0,0,0,10.9,3.979Zm-2.968,0H5.958V2.989H7.937Z" transform="translate(171 10169.601)"/>
+  </g>
+</svg>

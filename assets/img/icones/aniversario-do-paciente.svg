@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.226 16.237">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ff1744;
+      }
+
+      .cls-3 {
+        fill: #00909f;
+      }
+
+      .cls-4 {
+        fill: #fbc02d;
+      }
+    </style>
+  </defs>
+  <g id="aniversario-do-paciente" transform="translate(-1119 -1096.241)">
+    <g id="noun_Birthday_Cake_1304061" data-name="noun_Birthday Cake_1304061" transform="translate(1119 1106.887)">
+      <g id="Group_28" data-name="Group 28" transform="translate(0 0)">
+        <path id="Path_23" data-name="Path 23" class="cls-1" d="M39.161,223.59a.927.927,0,0,0,.905-1.012v-2.5c-1.544.426-3.194-.639-4.046-2.076a3.824,3.824,0,0,1-6.921,0c-.905,1.437-2.555,2.5-4.1,2.076v2.5a.959.959,0,0,0,.905,1.012Z" transform="translate(-25 -218)"/>
+      </g>
+    </g>
+    <path id="Path_23-2" data-name="Path 23" class="cls-2" d="M28.727,134h7.666a3.876,3.876,0,0,1,3.673,4.046v1.384c-1.65.745-3.407-1.7-4.1-3.141-2.076,4.366-4.738,4.366-6.868,0-.692,1.437-2.449,3.886-4.1,3.141v-1.384A3.884,3.884,0,0,1,28.727,134Z" transform="translate(1094.16 968.415)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-3" width="2.331" height="1" transform="translate(1123.618 1101.384)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-3" width="2.331" height="1" transform="translate(1127.618 1101.384)"/>
+    <path id="Path_30" data-name="Path 30" class="cls-4" d="M148.971,9.893c-.359,1.3-.344,1.375.386,2.689s-2.366,2.321-2.622.206a2.811,2.811,0,0,1,.845-2.474C148.08,9.893,149.035,9.738,148.971,9.893Z" transform="translate(976.649 1086.406)"/>
+    <path id="Path_31" data-name="Path 31" class="cls-4" d="M148.971,9.893c-.359,1.3-.344,1.375.386,2.689s-2.366,2.321-2.622.206a2.811,2.811,0,0,1,.845-2.474C148.08,9.893,149.035,9.738,148.971,9.893Z" transform="translate(980.649 1086.406)"/>
+  </g>
+</svg>

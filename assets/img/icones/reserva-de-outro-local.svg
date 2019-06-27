@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.027 14.734">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #00c853;
+        stroke: #00c853;
+      }
+    </style>
+  </defs>
+  <g id="reserva-de-outro-local" transform="translate(-194 -1375.587)">
+    <g id="noun_Hospital_583380" transform="translate(194 1379.637)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+      </g>
+    </g>
+    <path id="ic_assignment_turned_in_24px" class="cls-2" d="M8.931,14.482,6,11.551l1.033-1.033,1.9,1.89L13.759,7.58l1.033,1.04Z" transform="translate(193.007 1368.715)"/>
+  </g>
+</svg>

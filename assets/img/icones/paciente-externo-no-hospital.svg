@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #021aee;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="paciente-externo-no-hospital" transform="translate(-169 -7069)">
+    <g id="Group_174" data-name="Group 174" transform="translate(1 704)">
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-1" width="14" height="14" transform="translate(168 6365)"/>
+    </g>
+    <path id="Path_3841" data-name="Path 3841" class="cls-2" d="M3.172,0H-2.762V-9.994H3.172v2.167H-.062v1.572H2.933v2.167H-.062V-2.2H3.172Z" transform="translate(175.762 7081)"/>
+  </g>
+</svg>

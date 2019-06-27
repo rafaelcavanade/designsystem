@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <path id="particular-icon" class="cls-1" d="M11.5,11.5A3.75,3.75,0,1,0,7.75,7.75,3.749,3.749,0,0,0,11.5,11.5Zm0,1.875c-2.5,0-7.5,1.256-7.5,3.75V19H19V17.125C19,14.631,14,13.375,11.5,13.375Z" transform="translate(-3.5 -3.5)"/>
+</svg>

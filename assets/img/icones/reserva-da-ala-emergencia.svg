@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.255 12.277">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+
+      .cls-3 {
+        fill: #00c853;
+        stroke: #00c853;
+      }
+    </style>
+  </defs>
+  <g id="reserva-da-ala-emergencia" transform="translate(-195 -1905.044)">
+    <g id="Group_45" data-name="Group 45" transform="translate(32 269)">
+      <g id="noun_Hospital_583380" transform="translate(163 1637.637)">
+        <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+          <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_46" data-name="Group 46" transform="translate(205.472 1905.218)">
+      <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-2" width="1.735" height="5.783" transform="translate(2.024)"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-2" width="1.735" height="5.783" transform="translate(0 3.759) rotate(-90)"/>
+    </g>
+    <path id="ic_assignment_turned_in_24px" class="cls-3" d="M8,12.281l-2-2,.7-.7L8,10.868,11.285,7.58l.7.709Z" transform="translate(193.007 1898.173)"/>
+  </g>
+</svg>

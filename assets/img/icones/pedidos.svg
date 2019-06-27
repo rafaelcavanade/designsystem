@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #1c3952;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 1.15px;
+      }
+
+      .cls-3 {
+        fill: #1c3952;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <g id="pedido" transform="translate(-59.5 -452)">
+    <path id="ic_account_box_24px" class="cls-1" d="M3,4.667V16.333A1.666,1.666,0,0,0,4.667,18H16.333A1.672,1.672,0,0,0,18,16.333V4.667A1.672,1.672,0,0,0,16.333,3H4.667A1.666,1.666,0,0,0,3,4.667Z" transform="translate(57 449.5)"/>
+    <line id="Line_882" data-name="Line 882" class="cls-2" x2="4" transform="translate(67.5 458.403)"/>
+    <line id="Line_884" data-name="Line 884" class="cls-2" x2="4" transform="translate(67.5 462.403)"/>
+    <g id="noun_Check_1813721" transform="translate(58.281 428.989)">
+      <g id="Group_6158" data-name="Group 6158" transform="translate(4.438 27.972)">
+        <path id="Path_5088" data-name="Path 5088" class="cls-3" d="M22.75,980.334a.253.253,0,0,0-.174.077c-.492.493-1.017,1.053-1.509,1.553l-.679-.559a.253.253,0,0,0-.322.39l.859.708a.253.253,0,0,0,.34-.016c.544-.546,1.134-1.184,1.668-1.719a.253.253,0,0,0-.183-.434Z" transform="translate(-19.974 -980.334)"/>
+      </g>
+    </g>
+    <g id="noun_Check_1813721-2" data-name="noun_Check_1813721" transform="translate(58.281 432.989)">
+      <g id="Group_6158-2" data-name="Group 6158" transform="translate(4.438 27.972)">
+        <path id="Path_5088-2" data-name="Path 5088" class="cls-3" d="M22.75,980.334a.253.253,0,0,0-.174.077c-.492.493-1.017,1.053-1.509,1.553l-.679-.559a.253.253,0,0,0-.322.39l.859.708a.253.253,0,0,0,.34-.016c.544-.546,1.134-1.184,1.668-1.719a.253.253,0,0,0-.183-.434Z" transform="translate(-19.974 -980.334)"/>
+      </g>
+    </g>
+  </g>
+</svg>

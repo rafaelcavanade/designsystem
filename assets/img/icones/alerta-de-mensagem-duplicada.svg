@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.368 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbc02d;
+      }
+    </style>
+  </defs>
+  <path id="alerta-de-mensagem-duplicada" class="cls-1" d="M1,17H18.368L9.684,2Zm9.474-2.368H8.895V13.053h1.579Zm0-3.158H8.895V8.316h1.579Z" transform="translate(-1 -2)"/>
+</svg>

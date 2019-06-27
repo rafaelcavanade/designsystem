@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.027 12.315">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+    </style>
+  </defs>
+  <g id="leito-requisitado-pela-emergencia" transform="translate(-193 -2724.006)">
+    <g id="Group_68" data-name="Group 68" transform="translate(27 276)">
+      <g id="noun_Hospital_583380" transform="translate(166 2449.637)">
+        <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+          <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_36" data-name="Path 36" class="cls-2" d="M-6.267-4.5H-9.529V-9.994h3.262V-8.8H-8.045v.864H-6.4v1.191H-8.045V-5.71h1.778Zm3.356,0L-4.035-8.457h-.034q.079,1.011.079,1.571V-4.5H-5.305V-9.994h1.977l1.146,3.9h.03l1.124-3.9H.952V-4.5H-.412V-6.909q0-.188.006-.417T-.356-8.45H-.39L-1.5-4.5Z" transform="translate(206.5 2734)"/>
+  </g>
+</svg>

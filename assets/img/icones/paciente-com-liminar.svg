@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20.023">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <g id="paciente-com-liminar" transform="translate(-6.001 -12.856)">
+    <g id="Group_2" data-name="Group 2" transform="translate(15.294 29.422)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" class="cls-1" d="M250.3,423.319,249.111,421H243.6l-1.185,2.317H241v1.14h10.707v-1.14Z" transform="translate(-241.001 -421.002)"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(9.998 12.879)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+        <path id="Path_14" data-name="Path 14" class="cls-1" d="M0,0,8.137.16l.046,2.325L.046,2.325Z" transform="translate(0 5.763) rotate(-45)"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(16.949 19.561)">
+      <g id="Group_5" data-name="Group 5" transform="translate(0 0)">
+        <path id="Path_15" data-name="Path 15" class="cls-1" d="M0,0,8.137.16l.046,2.325L.046,2.325Z" transform="translate(0 5.763) rotate(-45)"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(13.912 15.798)">
+      <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+        <path id="Path_16" data-name="Path 16" class="cls-1" d="M0,0,4.65.092,4.764,5.9.114,5.812Z" transform="translate(0 3.346) rotate(-45)"/>
+      </g>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(6.001 20.93)">
+      <g id="Group_9" data-name="Group 9">
+        <path id="Path_2" data-name="Path 2" class="cls-1" d="M8.516,222.741,0,230.956l1.666,1.612,8.515-8.215Z" transform="translate(-0.001 -222.741)"/>
+      </g>
+    </g>
+  </g>
+</svg>

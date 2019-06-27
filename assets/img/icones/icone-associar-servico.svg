@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.671" height="19.619" viewBox="0 0 15.671 19.619">
+  <g id="icone-associar-servico" transform="translate(-21.08 -11.346)">
+    <g id="Group_7964" data-name="Group 7964" transform="translate(21.432 11.697)">
+      <g id="Group_7959" data-name="Group 7959" transform="translate(7.271 11.01)">
+        <path id="Path_5280" data-name="Path 5280" d="M53.57,65.808a3.335,3.335,0,0,1-3.37-3.263V57.9h.252v4.665a3.114,3.114,0,1,0,6.228,0h.252a3.315,3.315,0,0,1-3.362,3.243Z" transform="translate(-50.2 -57.9)" fill="#0d3454" stroke="#0d3454" stroke-width="0.7"/>
+      </g>
+      <g id="Group_7960" data-name="Group 7960" transform="translate(0 0)">
+        <path id="Path_5281" data-name="Path 5281" d="M22.4,13.8a1.052,1.052,0,1,1,1.135-1.048A1.1,1.1,0,0,1,22.4,13.8Zm0-1.859a.812.812,0,1,0,.875.81.837.837,0,0,0-.875-.808Z" transform="translate(-21.432 -11.697)" fill="#0d3454" stroke="#0d3454" stroke-width="0.7"/>
+      </g>
+      <g id="Group_7961" data-name="Group 7961" transform="translate(12.866 13.768)">
+        <path id="Path_5282" data-name="Path 5282" d="M72.4,71.6a1.052,1.052,0,1,1,1.135-1.048A1.1,1.1,0,0,1,72.4,71.6Zm0-1.859a.812.812,0,1,0,.875.81.854.854,0,0,0-.875-.808Z" transform="translate(-71.432 -69.497)" fill="#0d3454" stroke="#0d3454" stroke-width="0.7"/>
+      </g>
+      <g id="Group_7962" data-name="Group 7962" transform="translate(12.763 0)">
+        <path id="Path_5283" data-name="Path 5283" d="M72,13.8a1.052,1.052,0,1,1,1.135-1.048A1.1,1.1,0,0,1,72,13.8Zm0-1.859a.812.812,0,1,0,.875.81A.837.837,0,0,0,72,11.939Z" transform="translate(-71.032 -11.697)" fill="#0d3454" stroke="#0d3454" stroke-width="0.7"/>
+      </g>
+      <g id="Group_7963" data-name="Group 7963" transform="translate(0.786 1.981)">
+        <path id="Path_5284" data-name="Path 5284" d="M31.537,29.171A6.457,6.457,0,0,1,25,22.835V20h.252v2.811a6.281,6.281,0,0,0,12.558.024V20h.252l.025,2.811a6.5,6.5,0,0,1-6.55,6.36Z" transform="translate(-25 -20)" fill="#0d3454" stroke="#0d3454" stroke-width="0.7"/>
+      </g>
+    </g>
+  </g>
+</svg>

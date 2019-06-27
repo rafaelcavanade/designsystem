@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.969 15.836">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="unidade-fechada" transform="translate(-167.803 -5665.659)">
+    <path id="ic_business_24px" class="cls-1" d="M9.01,5.8V3H2V15.618H16.02V5.8ZM4.8,14.216H3.4v-1.4H4.8Zm0-2.8H3.4v-1.4H4.8Zm0-2.8H3.4v-1.4H4.8Zm0-2.8H3.4V4.4H4.8Zm2.8,8.412h-1.4v-1.4h1.4Zm0-2.8h-1.4v-1.4h1.4Zm0-2.8h-1.4v-1.4h1.4Zm0-2.8h-1.4V4.4h1.4Zm7.01,8.412H9.01v-1.4h1.4v-1.4H9.01v-1.4h1.4v-1.4H9.01v-1.4h5.608Zm-1.4-5.608h-1.4v1.4h1.4Zm0,2.8h-1.4v1.4h1.4Z" transform="translate(165.803 5662.659)"/>
+    <g id="Group_133" data-name="Group 133" transform="translate(0.844 5054.614)">
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="5.478" cy="5.478" rx="5.478" ry="5.478" transform="translate(170.972 615.925)"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-3" width="7.286" height="1.822" transform="translate(173.242 623.39) rotate(-45)"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-3" width="7.286" height="1.822" transform="translate(178.394 624.679) rotate(-135)"/>
+    </g>
+  </g>
+</svg>

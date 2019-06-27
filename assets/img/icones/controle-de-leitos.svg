@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.325 16.497">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00909f;
+        stroke: #00909f;
+        stroke-width: 0.5px;
+      }
+
+      .cls-2 {
+        fill: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <g id="controle-de-leitos" transform="translate(-167.232 -4399.443)">
+    <path id="ic_query_builder_24px" class="cls-1" d="M7.393,2a5.4,5.4,0,1,0,5.4,5.4A5.4,5.4,0,0,0,7.393,2ZM7.4,11.718A4.319,4.319,0,1,1,11.718,7.4,4.318,4.318,0,0,1,7.4,11.718ZM7.669,4.7h-.81V7.939l2.834,1.7.4-.664L7.669,7.534Z" transform="translate(168.509 4397.693)"/>
+    <g id="noun_Hospital_583380" transform="translate(167.232 4408.504)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <path id="Path_13" data-name="Path 13" class="cls-2" d="M20,40v7.435h1.859V45.577h7.435v1.859h1.859V43.718H21.859V40Z" transform="translate(-20 -40)"/>
+      </g>
+    </g>
+  </g>
+</svg>

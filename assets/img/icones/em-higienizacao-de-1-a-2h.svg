@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.772 17.495">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #2196f3;
+      }
+
+      .cls-3 {
+        fill: #fbc02d;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="higienizacao-de-1-a-2h" transform="translate(-165 -4682)">
+    <g id="noun_Shower_670632" transform="translate(145 4662.206)">
+      <path id="Path_3815" data-name="Path 3815" class="cls-1" d="M4.072-54.818H5.951c0-4.711,7.191-4.711,7.191,0v9.7h1.867l.013-9.7C15.034-62.009,4.084-62,4.072-54.818ZM1.265-50.884H8.757c.639,0,.639,0,.639-.639v-.238c0-5.061-8.77-5.061-8.77,0v.238C.626-50.884.626-50.884,1.265-50.884Zm0,0" transform="translate(20 80)"/>
+    </g>
+    <g id="Group_207" data-name="Group 207">
+      <g id="noun_Shower_670632-2" data-name="noun_Shower_670632" transform="translate(145 4662.206)">
+        <path id="Path_3815-2" data-name="Path 3815" class="cls-2" d="M1.24-49.293C.363-47.815,0-47.138,0-46.474a1.277,1.277,0,0,0,1.24,1.353,1.264,1.264,0,0,0,1.2-1.353C2.443-47.138,2.1-47.789,1.24-49.293Zm3.771,0c-.864,1.478-1.24,2.155-1.24,2.819a1.272,1.272,0,0,0,1.24,1.34,1.272,1.272,0,0,0,1.24-1.34C6.251-47.138,5.9-47.789,5.011-49.293Zm3.771,0c-.864,1.466-1.2,2.13-1.2,2.806a1.256,1.256,0,0,0,1.2,1.353,1.269,1.269,0,0,0,1.24-1.353C10.022-47.163,9.672-47.815,8.782-49.293Z" transform="translate(20 80)"/>
+      </g>
+    </g>
+    <g id="Group_105" data-name="Group 105" transform="translate(0.844 4072.615)">
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-3" cx="5.478" cy="5.478" rx="5.478" ry="5.478" transform="translate(170.972 615.925)"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-4" width="7.286" height="1.822" transform="translate(172.819 620.547)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.319 15.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <g id="data-nascimento-estimado" transform="translate(-177 -1126)">
+    <path id="Path_22" data-name="Path 22" class="cls-1" d="M.639-10.637.4-8.445l2.217-.629.23,1.837L.894-7.106,2.183-5.375.564-4.516l-.89-1.762-.766,1.75-1.694-.847L-1.5-7.106l-1.949-.156.28-1.812,2.167.629-.243-2.192Z" transform="translate(184.468 1143.29)"/>
+    <path id="ic_event_busy_24px" class="cls-1" d="M15.728,2.591h-.8V1H13.341V2.591H6.977V1H5.386V2.591h-.8A1.584,1.584,0,0,0,3.008,4.182L3,15.319A1.591,1.591,0,0,0,4.591,16.91H15.728a1.6,1.6,0,0,0,1.591-1.591V4.182A1.6,1.6,0,0,0,15.728,2.591Zm0,12.728H4.591V6.568H15.728Z" transform="translate(174 1125)"/>
+  </g>
+</svg>

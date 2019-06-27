@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.027 14.812">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+      }
+    </style>
+  </defs>
+  <g id="reserva-pre-adm-emergencia" transform="translate(-195 -1770.509)">
+    <g id="Group_40" data-name="Group 40" transform="translate(32 137)">
+      <g id="noun_Hospital_583380" transform="translate(163 1637.637)">
+        <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+          <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40V50.685h2.671V48.013H33.356v2.671h2.671V45.342H22.671V40Z" transform="translate(-20 -40)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_41" data-name="Group 41" transform="translate(13 2.509)">
+      <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-2" width="2.547" height="8.491" transform="translate(190.472 1768)"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-2" width="2.547" height="8.491" transform="translate(187.5 1773.519) rotate(-90)"/>
+    </g>
+  </g>
+</svg>

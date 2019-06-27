@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#1C3952;}
+	.st1{fill:none;stroke:#1C3952;stroke-width:1.15;stroke-linecap:round;}
+	.st2{fill:#FFFFFF;stroke:#1C3952;}
+</style>
+<g id="menu-componente" transform="translate(-59.5 -251.5)">
+	<g id="Group_6848" transform="translate(0 -200.5)">
+		<path id="ic_account_box_24px" class="st0" d="M60,454.2v11.7c0,0.9,0.7,1.7,1.7,1.7c0,0,0,0,0,0h11.7c0.9,0,1.7-0.7,1.7-1.7
+			v-11.7c0-0.9-0.7-1.7-1.7-1.7H61.7C60.7,452.5,60,453.2,60,454.2C60,454.2,60,454.2,60,454.2z"/>
+	</g>
+	<line id="Line_882" class="st1" x1="60.5" y1="256.9" x2="74.5" y2="256.9"/>
+	<line id="Line_890" class="st1" x1="68.5" y1="254.9" x2="69.5" y2="254.9"/>
+	<line id="Line_891" class="st1" x1="71.5" y1="254.9" x2="72.5" y2="254.9"/>
+	<g id="Group_6849" transform="translate(2 -199.597)">
+		<path id="ic_account_box_24px-2" class="st2" d="M60,453.9v6c0,0.2,0.2,0.4,0.4,0.4c0,0,0,0,0,0h3.3c0.2,0,0.4-0.2,0.4-0.4v-6
+			c0-0.2-0.2-0.4-0.4-0.4h-3.3C60.2,453.5,60,453.7,60,453.9L60,453.9z"/>
+	</g>
+	<line id="Line_892" class="st1" x1="63.5" y1="256.9" x2="64.5" y2="256.9"/>
+	<line id="Line_893" class="st1" x1="63.5" y1="258.9" x2="64.5" y2="258.9"/>
+</g>
+</svg>

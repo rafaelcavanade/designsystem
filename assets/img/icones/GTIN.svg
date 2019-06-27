@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="GTIN" transform="translate(-60 -547)">
+    <path id="ic_account_box_24px" d="M3,4.667V16.333A1.666,1.666,0,0,0,4.667,18H16.333A1.672,1.672,0,0,0,18,16.333V4.667A1.672,1.672,0,0,0,16.333,3H4.667A1.666,1.666,0,0,0,3,4.667Z" transform="translate(57.5 544.5)" fill="none" stroke="#1c3952" stroke-width="1"/>
+    <g id="noun_Barcode_1650189" transform="translate(60.471 534.225)">
+      <g id="Agrupar_7002" data-name="Agrupar 7002" transform="translate(2.529 17.185)">
+        <path id="Caminho_5331" data-name="Caminho 5331" d="M6.08,16.775H7.5v7.053H6.08V16.775Zm-3.55,0H3.95v7.053H2.529Zm2.13,0h.71v7.053H4.66Zm6.391,0h1.42v7.053H11.05Zm-1.42,0h.71v7.053H9.63Zm-1.42,0h.71v7.053H8.21Z" transform="translate(-2.529 -16.775)" fill="#1c3952"/>
+      </g>
+    </g>
+  </g>
+</svg>

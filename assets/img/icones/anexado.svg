@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.728 12.381">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #00909f;
+      }
+    </style>
+  </defs>
+  <g id="anexado" transform="translate(-167 -5385.941)">
+    <g id="Group_125" data-name="Group 125" transform="translate(167 5389.313)">
+      <g id="Group_90" data-name="Group 90">
+        <g id="noun_Hospital_583380">
+          <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+            <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40v9.008h2.252V46.756H31.26v2.252h2.252V44.5H22.252V40Z" transform="translate(-20 -40)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_126" data-name="Group 126" transform="translate(171.215 5385.941)">
+      <g id="Group_90-2" data-name="Group 90" transform="translate(0 0)">
+        <g id="noun_Hospital_583380-2" data-name="noun_Hospital_583380" transform="translate(0 0)">
+          <g id="Group_4-2" data-name="Group 4" transform="translate(0 0)">
+            <path id="Path_13-2" data-name="Path 13" class="cls-2" d="M20,40v7.322h2.252v-.566H31.26v2.252h2.252V44.5H22.252V40Z" transform="translate(-20 -40)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

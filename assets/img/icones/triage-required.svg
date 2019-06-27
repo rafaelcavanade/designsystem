@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.327 14.588">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <path id="triage-required" class="cls-1" d="M2.77,1.739H-1.172V-9.627h-4.7V-12.85H7.458v3.223H2.77Z" transform="translate(5.869 12.85)"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19.283 17.301">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke: #1c3952;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 1.15px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_5133" data-name="Path 5133" class="cls-1" d="M8419.892,200.878h0V183.83h17.3v2.683l-2.8,3.417-.367,5.9,3.295-4.373-.126,9.675H8420.4"/>
+    </clipPath>
+  </defs>
+  <g id="termos-de-consentimento" transform="translate(-8419.892 -183.83)">
+    <line id="Line_882" data-name="Line 882" class="cls-2" x2="8" transform="translate(8424.5 190.903)"/>
+    <line id="Line_912" data-name="Line 912" class="cls-2" x2="8" transform="translate(8424.5 187.903)"/>
+    <line id="Line_887" data-name="Line 887" class="cls-2" x2="1" transform="translate(8424.5 193.903)"/>
+    <line id="Line_888" data-name="Line 888" class="cls-2" x2="4" transform="translate(8424.5 196.903)"/>
+    <path id="Path_5132" data-name="Path 5132" class="cls-3" d="M8443.145,195.036l2.562,3.163,7.385-8.188" transform="matrix(0.996, -0.087, 0.087, 0.996, 0.354, 735.534)"/>
+    <g id="Mask_Group_279" data-name="Mask Group 279" class="cls-4">
+      <path id="ic_account_box_24px" class="cls-5" d="M3,4.667V16.333A1.666,1.666,0,0,0,4.667,18H16.333A1.672,1.672,0,0,0,18,16.333V4.667A1.672,1.672,0,0,0,16.333,3H4.667A1.666,1.666,0,0,0,3,4.667Z" transform="translate(8418 182)"/>
+    </g>
+  </g>
+</svg>

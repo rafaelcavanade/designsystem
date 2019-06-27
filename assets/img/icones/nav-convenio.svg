@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.98 14.584">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1c3952;
+      }
+    </style>
+  </defs>
+  <g id="Group_5770" data-name="Group 5770" transform="translate(-22.492 -375.855)">
+    <path id="ic_payment_24px" class="cls-1" d="M17.282,4H3.7a1.685,1.685,0,0,0-1.69,1.7L2,15.886a1.692,1.692,0,0,0,1.7,1.7H17.282a1.692,1.692,0,0,0,1.7-1.7V5.7A1.692,1.692,0,0,0,17.282,4Zm1.7,10.645h0Z" transform="translate(20.992 372.355)"/>
+    <path id="Path_4055" data-name="Path 4055" class="cls-1" d="M-11389.035-3062.4h7.338" transform="translate(11414.129 3441.728)"/>
+    <path id="Path_4056" data-name="Path 4056" class="cls-1" d="M-11389.035-3062.4h7.338" transform="translate(11414.129 3443.849)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+    </style>
+  </defs>
+  <path id="paciente-com-produtos-corporativo" class="cls-1" d="M20,5.158H16V3.579A1.821,1.821,0,0,0,14,2H10A1.821,1.821,0,0,0,8,3.579V5.158H4A1.811,1.811,0,0,0,2.01,6.737L2,15.421A1.821,1.821,0,0,0,4,17H20a1.821,1.821,0,0,0,2-1.579V6.737A1.821,1.821,0,0,0,20,5.158Zm-6,0H10V3.579h4Z" transform="translate(-2 -2)"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.666 16.412">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b3b3b;
+      }
+
+      .cls-2 {
+        fill: #d50000;
+        stroke: #d50000;
+      }
+    </style>
+  </defs>
+  <g id="leito-indisponivel-auditoria" transform="translate(-170.232 -8419.527)">
+    <g id="Group_230" data-name="Group 230" transform="translate(2 2196)">
+      <g id="Group_145" data-name="Group 145" transform="translate(1 1824)">
+        <g id="noun_Hospital_583380" transform="translate(167.232 4408.504)">
+          <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+            <path id="Path_13" data-name="Path 13" class="cls-1" d="M20,40v7.435h1.859V45.577h7.435v1.859h1.859V43.718H21.859V40Z" transform="translate(-20 -40)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_228" data-name="Group 228" transform="translate(2766.191 8254.228) rotate(90)">
+      <g id="noun_Search_1049797" transform="translate(165.8 2582)">
+        <g id="Group_62" data-name="Group 62" transform="translate(0 0)">
+          <path id="Path_32" data-name="Path 32" class="cls-2" d="M21.808,11l-2.267,2.267a4.535,4.535,0,1,0-2.807,8.1,4.536,4.536,0,0,0,3.576-7.341l2.254-2.267Zm-5.074,9.284A3.455,3.455,0,1,1,20.2,16.83,3.461,3.461,0,0,1,16.734,20.284Z" transform="translate(-12.2 -11)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
